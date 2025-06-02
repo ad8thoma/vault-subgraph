@@ -1,1 +1,1 @@
-# vault-subgraph
+# vault-subgrapht
